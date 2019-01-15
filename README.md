@@ -1,2 +1,2 @@
 # RemoveAutenticationPopup
-Esse módulo remove o popup de autenticação e redireciona o cliente para a página de login/cadastro
+Remove o popup de autenticação do Magento 2 e redirecione o cliente para a página de login/cadastro
